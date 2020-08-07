@@ -1,3 +1,3 @@
 # GitHub Pages
 
-index
+[スプラトゥーン](splatoon.html)
