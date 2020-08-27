@@ -1,3 +1,3 @@
-# GitHub Pages
+# 自分用いろいろメモ
 
 [スプラトゥーン](splatoon.html)
